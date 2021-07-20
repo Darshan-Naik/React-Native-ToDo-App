@@ -1,3 +1,5 @@
 # React-Native-ToDo-App
-A web application that holds daily Todos and tasks.
+An andriod application that holds daily Todos and tasks.
+
+## React-native-application
 
